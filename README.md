@@ -14,7 +14,6 @@ This project is a small demonstration created with Scratch. It's not a complete 
 2. Open the project on Scratch.
 3. Click the "Space" button to start the game.
 
-
 ## Notes
 
 This project is a work in progress and may not have all features or functionalities.
